@@ -786,15 +786,6 @@ Licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 **🚨 Critical Warning**: This project was built with good intentions (accessibility for global readers) but relies heavily on MangaDex, a fan-translation aggregator in a legal gray area (see [Wikipedia](https://en.wikipedia.org/wiki/MangaDex)). It doesn't host content but uses its API/scraping for discovery, metadata, forums, and images—which could be viewed as enabling access, drawing DMCA or infringement claims (e.g., US fair use limited; EU stricter).  
 
-From our conversation:  
-- "Even if a project doesn’t host content, making it easily accessible can attract legal scrutiny" (LibGen parallel).  
-- Personal identity linkage is key risk—"the person who is in reach is made an example," especially with GitHub tying name to repo.  
-
-**Recommendations**:  
-- Switch to official sources: Viz, Kodansha, Crunchyroll.  
-- For devs: Replace MangaDex with licensed APIs; use pseudonyms.  
-- I'm not a lawyer—seek professional advice. Development paused to protect creator from targeting.  
-
 *Project archived for education; no endorsement of MangaDex use.*
 
 ---
